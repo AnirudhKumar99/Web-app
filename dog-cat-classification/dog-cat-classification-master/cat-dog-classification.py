@@ -11,9 +11,9 @@ import numpy as np
 
 # dimensions of our images.
 img_width, img_height = 150, 150
-train_data_dir = '/home/mvmanh/dataset/PetImages/train'
-validation_data_dir = '/home/mvmanh/dataset/PetImages/validation'
-test_data_dir = '/home/mvmanh/dataset/PetImages/test'
+train_data_dir = 'E:/ML_Codes/all1/train'
+validation_data_dir = 'E:/ML_Codes/all1/validation'
+test_data_dir = 'E:/ML_Codes/all1/test'
 nb_train_samples = 17500
 nb_validation_samples = 2500
 nb_test_samples = 5000
